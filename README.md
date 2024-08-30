@@ -14,10 +14,13 @@ work and in turn the delivery of orders to said customers.
 
 
 
-# 3. Terperl
+# 3. Terpel
+
+Android app for user’s experiences in promotions and benefits after refueling at Terpel stations in the country..
 
 
 
 # 4. Citibanamex
 
+Customer's app for this mexican bank. I was focused in the security issues related to login and sign up.
 
